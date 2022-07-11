@@ -1,0 +1,25 @@
+body{
+    background-color: slategray;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+h2{
+    color: midnightblue;
+}
+table{
+    table-layout: fixed;
+    margin: auto;
+    
+    border: 2px solid lightskyblue;
+}
+th{
+    background-color: papayawhip;
+}
+td{
+    color:aliceblue;
+    text-align: left;
+    padding: 0px 4px;
+    
+}
